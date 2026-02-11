@@ -9,6 +9,7 @@
 
 I am a passionate Full Stack Web Developer with strong experience in designing and building scalable, high-performance web applications. I specialize in modern front-end frameworks and robust back-end systems, always striving for clean code and user-focused solutions.
 
+- 🌍 **Portfolio:** [Check out my work here](https://abumarar.github.io/portfolio/)
 - 🔭 I’m currently working on **Intelligent Task Allocation Systems**
 - 🌱 I’m currently learning **Advanced NLP & AI Integration**
 - 🎓 **Education:** Bachelor of Software Engineering, Philadelphia University (2022-2026)
@@ -53,6 +54,9 @@ ITAS is a web-based application designed to automate the assignment of tasks wit
 ## 📫 Connect with Me
 
 <div align="center">
+  <a href="https://abumarar.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mohammed-abumarar-226397232/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
