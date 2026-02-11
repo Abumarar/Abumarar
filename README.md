@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="My Banner.jpg" width="100%" alt="Mohammad Abumarar Banner" />
+  <img src="My Banner.png" width="100%" alt="Mohammad Abumarar Banner" />
 </div>
 
 <br/>
